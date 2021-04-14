@@ -37,8 +37,6 @@ I'm completing the 100 Days of Code Challenge. See what I've been up to:
 
 
 About Me:
-<a href= "https://www.linkedin.com/feed/">LinkedIn</a>
-
 ![Linkedin: marcus](https://img.shields.io/badge/-MarcusGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gutierrezmarcus/)
 
 <a href = "https://dev.to/mgtz505">Dev.to</a>
@@ -47,7 +45,7 @@ About Me:
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mgtz505/mgtz505)
 👀
 <p>
-Awesome .gif via: https://github.com/abhisheknaiidu
+That awesome .gif via: https://github.com/abhisheknaiidu
  </p>
 
 <!---
