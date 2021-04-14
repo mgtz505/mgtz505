@@ -13,7 +13,8 @@ I’m tackling webscraping in python!
 I'm completing the 100 Days of Code Challenge. See what I've been up to: 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
 <h3> 📗 What I'm currently reading: </h3>
-Swipe to Unlock: The Primer on Technology and Business & Cracking the PM Interview: How to Land a Product Manager Job in Technology 
+- Swipe to Unlock: The Primer on Technology and Business 
+- Cracking the PM Interview: How to Land a Product Manager Job in Technology 
 
 <h2>My Stack: </h2>
 <div align="center">
