@@ -5,7 +5,7 @@
 <p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. 
 </p>
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
 I’m tackling webscraping in python! 
