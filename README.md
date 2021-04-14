@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I’m Marcus Gutierrez </h1>
 
 
-<h2 align="center"> I’m interested in opportunities in product management <h2>
+<h2 align="center"> I’m interested in opportunities in Product Management <h2>
 <p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. 
 </p>
   
@@ -39,6 +39,7 @@ About Me:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mgtz505/mgtz505)
 👀
+Awesome .gif via: https://github.com/abhisheknaiidu
 
 <!---
 mgtz505/mgtz505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
