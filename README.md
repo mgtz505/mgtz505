@@ -10,7 +10,8 @@
 <h3> 💻  What I'm currrently learning: </h3> 
 I’m tackling webscraping in python! 
 <h3> 🗓 My Day-to-day: </h3>
-I'm completing the 100 Days of Code Challenge. See what I've been up to: <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
+I'm completing the 100 Days of Code Challenge. See what I've been up to: 
+<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
 <h3> 📗 What I'm currently reading: </h3>
 Swipe to Unlock: The Primer on Technology and Business & Cracking the PM Interview: How to Land a Product Manager Job in Technology 
 
@@ -39,7 +40,9 @@ About Me:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mgtz505/mgtz505)
 👀
+<p>
 Awesome .gif via: https://github.com/abhisheknaiidu
+ </p>
 
 <!---
 mgtz505/mgtz505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
