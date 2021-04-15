@@ -2,8 +2,7 @@
 
 
 <h2 align="center"> I’m interested in opportunities in Product Management </h2>
-<p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. 
-</p>
+<p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. Check out my pinned repos below to see what I've been working on lately!
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
@@ -36,10 +35,6 @@ I'm completing the 100 Days of Code Challenge. See what I've been up to:
 
 
 
-About Me:
-![Linkedin: marcus](https://img.shields.io/badge/-MarcusGutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gutierrezmarcus/)
-
-<a href = "https://dev.to/mgtz505">Dev.to</a>
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mgtz505/mgtz505)
