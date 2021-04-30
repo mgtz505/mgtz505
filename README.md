@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
-My main focus is completing my final capstone project! On the side, I’m tackling webscraping in python!
+I'm gearing up to complete my Google Coursera Certificate in Project Managment. I'm additionally working on my python skills!
 <h3> 🗓 My Day-to-day: </h3>
 I'm completing the 100 Days of Code Challenge. See what I've been up to: 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
