@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I’m Marcus Gutierrez </h1>
 
 
-<h2 align="center"> I’m interested in opportunities in Product Management </h2>
+<h2 align="center"> Welcome to my GitHub Account! </h2>
 <p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. Check out my pinned repos below to see what I've been working on lately!
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
