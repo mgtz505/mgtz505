@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
-I'm gearing up to complete my Google Coursera Certificate in Project Managment. I'm additionally working on my python skills!
+I'm tackling a Udemy course on Data Structures and Algorithms in Python. I'm also gearing up to complete my Google Coursera Certificate in Project Managment.
 <h3> 🗓 My Day-to-day: </h3>
 I'm completing the 100 Days of Code Challenge. See what I've been up to: 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
@@ -15,7 +15,6 @@ I'm completing the 100 Days of Code Challenge. See what I've been up to:
 
 - Swipe to Unlock: The Primer on Technology and Business 
 
-- Cracking the PM Interview: How to Land a Product Manager Job in Technology 
 
 <h2>My Stack: </h2>
 <div align="center">
