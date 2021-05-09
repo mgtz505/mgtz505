@@ -2,12 +2,14 @@
 
 
 <h2 align="center"> Welcome to my GitHub Account! </h2>
-<p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. Check out my pinned repos below to see what I've been working on lately!
+<p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. Check out my pinned repos below to see what I've been working on lately!</p>
+
+
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
-I'm tackling a Udemy course on Data Structures and Algorithms in Python. I'm also gearing up to complete my Google Coursera Certificate in Project Managment.
+I'm tackling a Udemy course on Data Structures and Algorithms in Python. I also just completed my [portfolio](https://www.marcus-gutierrez.com/) using a particularly cool starter with gatsby.js. 
 <h3> 🗓 My Day-to-day: </h3>
 I'm completing the 100 Days of Code Challenge. See what I've been up to: 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
