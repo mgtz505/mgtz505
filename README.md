@@ -41,8 +41,11 @@ I'm completing the 100 Days of Code Challenge. See what I've been up to:
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 </div>
 
-
-
+<div align=center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgtz505&layout=compact)](https://github.com/mgtz505/github-readme-stats)
+  
+</div>
 
 
 
