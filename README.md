@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
-I'm tackling a Udemy course on Data Structures and Algorithms in Python. I'm currently working though practice code challenges in Leetcode and Code Signal.  
+I'm currently working though practice code challenges in Leetcode and Code Signal and additionally completing a Udemy course on Typescript!  
 <h3> 🗓 My Day-to-day: </h3>
 I'm completing the 100 Days of Code Challenge. See what I've been up to: 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
