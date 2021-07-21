@@ -14,11 +14,11 @@
 <h3> 💻  What I'm currrently learning: </h3> 
 I'm currently working though practice code challenges in Leetcode and Code Signal and additionally completing a Udemy course on Typescript!  
 <h3> 🗓 My Day-to-day: </h3>
-I'm completing the 100 Days of Code Challenge. See what I've been up to: 
+Grinding some Leetcode and learning Golang! 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
 <h3> 📗 What I'm currently reading: </h3>
 
-- Serious Python
+- Learning Golang via Udemy 
 
 
 
