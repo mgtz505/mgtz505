@@ -21,8 +21,9 @@ Grinding some Leetcode and learning Golang!
 - Learning Golang via Udemy 
 
 
-
+<br></br>
 <h2>My Stack: </h2>
+<br></br>
 <div align="center">
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
