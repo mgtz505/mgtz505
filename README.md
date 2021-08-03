@@ -49,10 +49,7 @@ Grinding some Leetcode and learning Golang!
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 </div>
 
-<div align="center">
-<h2> In Progress: </h2>
 
-</div>
 
 <div align=center>
   
