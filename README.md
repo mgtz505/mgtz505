@@ -53,10 +53,9 @@ Grinding some Leetcode and learning Golang!
 
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgtz505&layout=compact)](https://github.com/mgtz505/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgtz505&langs_count=10&layout=compact)](https://github.com/mgtz505/github-readme-stats)
   
 </div>
-
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mgtz505/mgtz505)
