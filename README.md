@@ -30,6 +30,8 @@ Grinding some Leetcode and learning Golang!
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css&logoColor=blue&color=2bbc8a)
+  ![](https://img.shields.io/badge/Preprocessor-SASS-informational?style=flat&logo=sass&logoColor=blue&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=blue&color=2bbc8a)
@@ -37,11 +39,12 @@ Grinding some Leetcode and learning Golang!
 
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Gatsby-informational?style=flat&logo=gatsby&logoColor=purple&color=2bbc8a)
+
 
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=green&color=2bbc8a)
-  ![](https://img.shields.io/badge/Framework-Gatsby-informational?style=flat&logo=gatsby&logoColor=purple&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=navy&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 </div>
