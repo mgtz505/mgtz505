@@ -3,7 +3,9 @@
 
 <h2 align="center"> Welcome to my GitHub Account</h2>
 
-[Check out my Portfolio Site](https://www.marcus-gutierrez.com), [take a look at my resume](https://drive.google.com/file/d/14fNjU3T3kniwLRGr6ti9dnVtc7oKdPoJ/view?usp=sharing), and [connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
+- [Check out my Portfolio Site](https://www.marcus-gutierrez.com)
+- [Take a look at my resume](https://drive.google.com/file/d/1nkjJ12e1PrzrGZXafvm8x3AkOBzvUQrt/view?usp=sharing)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
 
 <p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. </p>
 
