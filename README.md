@@ -21,7 +21,7 @@ Grinding some Leetcode and learning Golang!
 <h3> 📗 What I'm currently reading: </h3>
 
 - Learning Golang via Udemy
-- In the House in the Dark of the Woods 
+
 
 
 <br></br>
