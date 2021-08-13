@@ -32,7 +32,7 @@ Grinding some Leetcode and learning Golang!
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html&logoColor=orange&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css&logoColor=blue&color=2bbc8a)
-  ![](https://img.shields.io/badge/Preprocessor-SASS-informational?style=flat&logo=sass&logoColor=blue&color=2bbc8a)
+  ![](https://img.shields.io/badge/Preprocessor-SASS-informational?style=flat&logo=sass&logoColor=pink&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
