@@ -6,6 +6,7 @@
 - [Check out my Portfolio Site](https://www.marcus-gutierrez.com)
 - [Take a look at my resume](https://drive.google.com/file/d/1nkjJ12e1PrzrGZXafvm8x3AkOBzvUQrt/view?usp=sharing)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
+- [Time Capsule: See my Posts on dev.to](https://dev.to/mgtz505)
 
 <p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. </p>
 
