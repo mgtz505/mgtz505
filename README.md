@@ -8,7 +8,7 @@
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
 - [Time Capsule: See my Posts on dev.to](https://dev.to/mgtz505)
 
-<p> I have an insatiable desire to learn and am excited to use my engineering skills alongside my accumulated experience from four years working in finance. </p>
+<p> I have a strong desire to learn the art of SWE and am excited to use my skills alongside my accumulated experience from four years working in finance. </p>
 
 
   
