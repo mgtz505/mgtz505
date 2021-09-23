@@ -21,7 +21,7 @@ Grinding some Leetcode and learning Golang!
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
 <h3> 📗 What I'm currently reading: </h3>
 
-- Learning Golang via Udemy
+- Web Scalability for Startup Engineers by Artur Ejsmont
 
 
 
