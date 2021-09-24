@@ -22,6 +22,7 @@ Grinding some Leetcode and learning Golang!
 <h3> 📗 What I'm currently reading: </h3>
 
 - Web Scalability for Startup Engineers by Artur Ejsmont
+- Go Web Programming by Sau Sheong Chang
 
 
 
