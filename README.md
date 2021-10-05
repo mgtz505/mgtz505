@@ -8,6 +8,8 @@
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
 - [Time Capsule: See my Posts on dev.to](https://dev.to/mgtz505)
 
+<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
+
 <p> I have a strong desire to learn the art of SWE and am excited to use my skills alongside my accumulated experience from four years working in finance. </p>
 
 
@@ -15,14 +17,17 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
     
 <h3> 💻  What I'm currrently learning: </h3> 
-I'm currently working though practice code challenges in Leetcode and Code Signal and actively interviewing (and drinking plenty of coffee).  
+
+- I'm currently working though practice code challenges in Leetcode and Code Signal and actively interviewing (and drinking plenty of coffee) 
+
+- I'm also working on Georgia Tech's GTx CS1331: Introduction to Object-Oriented Programming with Java
 <h3> 🗓 My Day-to-day: </h3>
-Grinding some Leetcode and learning Golang! 
-<img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
+
+- Grinding DS&A and continuing to work on some portfolio projects. 
+
 <h3> 📗 What I'm currently reading: </h3>
 
 - Web Scalability for Startup Engineers by Artur Ejsmont
-- Go Web Programming by Sau Sheong Chang
 
 
 
@@ -39,7 +44,7 @@ Grinding some Leetcode and learning Golang!
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=blue&color=2bbc8a)
-
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=blue&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
@@ -52,6 +57,7 @@ Grinding some Leetcode and learning Golang!
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=navy&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 </div>
+
 
 
 
