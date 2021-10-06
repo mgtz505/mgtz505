@@ -44,7 +44,6 @@
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=yellow&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=blue&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ReactNative-informational?style=flat&logo=react&logoColor=blue&color=2bbc8a)
