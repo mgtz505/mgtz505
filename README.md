@@ -52,7 +52,7 @@
 
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=orange&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=green&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=navy&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 </div>
