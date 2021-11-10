@@ -20,10 +20,9 @@
 
 - I'm currently working though practice code challenges and actively interviewing (and drinking plenty of coffee) 
 
-- I'm also working on Georgia Tech's GTx CS1331: Introduction to Object-Oriented Programming with Java
 <h3> 🗓 My Day-to-day: </h3>
 
-- Grinding DS&A and continuing to work on some portfolio projects 
+- Review and learn!
 
 <h3> 📗 What I'm currently reading: </h3>
 
