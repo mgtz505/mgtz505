@@ -16,7 +16,7 @@
     
 <h3> 💻  What I'm currrently learning: </h3> 
 
-- I'm currently working though practice code challenges and actively interviewing (and drinking plenty of coffee) 
+- Ramping up as an Associate Software Engineer
 
 <h3> 🗓 My Day-to-day: </h3>
 
