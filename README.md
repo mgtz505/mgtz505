@@ -3,8 +3,6 @@
 
 <h2 align="center"> Welcome to my GitHub Account</h2>
 
-- [Check out my Portfolio Site](https://www.marcus-gutierrez.com)
-- [Take a look at my resume](https://drive.google.com/file/d/1nkjJ12e1PrzrGZXafvm8x3AkOBzvUQrt/view?usp=sharing)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gutierrezmarcus/)
 - [Time Capsule: See my Posts on dev.to](https://dev.to/mgtz505)
 
