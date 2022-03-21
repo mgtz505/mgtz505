@@ -8,8 +8,6 @@
 
 <img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/CodesMgutierrez?style=social">
 
-<p> I have a strong desire to learn the art of SWE and am excited to use my skills alongside my accumulated experience from four years working in finance. Feel free to get in-touch! </p>
-
 
   
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
